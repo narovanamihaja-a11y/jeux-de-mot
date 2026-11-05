@@ -2,7 +2,7 @@
 const baseLetterPools = [
     { letters: ['B', 'I', 'E', 'N'], words: ['BIEN', 'BEN', 'NIE', 'INE', 'EN'] },
     { letters: ['A', 'M', 'I', 'S'], words: ['AMIS', 'AMI', 'MAIS', 'MAI', 'SIM', 'MIS'] },
-    { letters: ['C', 'A', 'R', 'E'], words: ['RACE', 'CAR', 'ARE', 'ACRE'] },
+    { letters: ['C', 'A', 'R', 'E', 'T'], words: ['RACE', 'CAR', 'ARE', 'ACRE', 'CARE','ECART'] },
     { letters: ['L', 'I', 'R', 'E'], words: ['LIRE', 'LIER', 'RIEL', 'IL'] },
     { letters: ['P', 'A', 'R', 'E'], words: ['RAPE', 'PARE', 'PAR', 'PRE'] },
     { letters: ['N', 'O', 'T', 'E'], words: ['NOTE', 'NET', 'TON', 'ONT'] },
