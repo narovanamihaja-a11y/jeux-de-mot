@@ -1,5 +1,6 @@
 // Dictionnaire misy teny Frantsay ho an'ny ambaratonga rehetra
 const baseLetterPools = [
+    { letters: ['B', 'O', 'N', 'J', 'O', 'U', 'R'], words: ['BONJOUR', 'BON', 'JOUR', 'BOUR'] },
     { letters: ['B', 'I', 'E', 'N'], words: ['BIEN', 'BEN', 'NIE', 'INE', 'EN'] },
     { letters: ['A', 'M', 'I', 'S'], words: ['AMIS', 'AMI', 'MAIS', 'MAI', 'SIM', 'MIS'] },
     { letters: ['C', 'A', 'R', 'E', 'T'], words: ['RACE', 'CAR', 'ARE', 'ACRE', 'CARE','ECART'] },
