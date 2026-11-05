@@ -45,16 +45,32 @@ body {
 }
 
 .auth-card h2 {
-    color: #1d2731;
+    background: linear-gradient(360deg, #15ae8a, #c30fe3);
     margin-bottom: 15px;
+    color: white;
+    padding: 12px 0;
+    border-radius: 20px;
     font-size: 2rem;
+    border: 3px solid #a78631;
 }
 
 .auth-card p {
+    background: linear-gradient(360deg, #15ae8a, #c30fe3);
+    border-radius: 20px;
+    border: 3px solid #a78631;
+    color: white;
     font-size: 0.9rem;
-    color: #515d6b;
+    color: hsl(213, 100%, 98%);
     margin-bottom: 25px;
     font-weight: 600;
+}
+.auth-card a {
+    background: linear-gradient(360deg, #000806, #050006);
+    color: #0bd325;
+    border: 3px solid #0bd325;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 700;
 }
 
 .input-group {
